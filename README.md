@@ -1,29 +1,62 @@
 # ROBERTO
 
-## About Me
+### Cybersecurity Learner
+
+---
+
+## ABOUT ME
 
 I'm learning Linux, Termux, networking and web security.
 
-## Skills
+I use GitHub to document my projects, experiments and learning progress.
 
-- Linux
-- Termux
-- Git & GitHub
-- Nmap
-- SQL
-- Python
+---
+
+## SKILLS
+
+| Area | Tools |
+|---|---|
+| Operating System | Linux |
+| Terminal | Termux |
+| Networking | Nmap |
+| Programming | Python |
+| Database | SQL |
+| Version Control | Git and GitHub |
+| Security | Web Security |
+
+---
+
+## PROJECTS
+
+### Personal Website
+A simple personal website built and published with GitHub.
+
+### Terminal Customization
+Custom Linux and Termux terminal interface.
+
+### Security Labs
+Learning web security through authorized practice environments.
+
+---
+
+## CURRENTLY LEARNING
+
 - Web Security
+- Networking
+- Python
+- Linux
+- Git and GitHub
+- SQL
 
-## Projects
+---
 
-- Personal Website
-- Linux Terminal Customization
-- Security Learning Labs
+## GOAL
 
-## Currently Learning
+Build useful projects, improve my technical skills,
+and learn cybersecurity responsibly.
 
-Web security, networking and cybersecurity fundamentals.
+---
 
-## GitHub
+## GITHUB
 
-I use this profile to document my projects and learning journey.
+This profile contains my projects and learning journey.
