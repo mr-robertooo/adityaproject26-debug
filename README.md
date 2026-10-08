@@ -1,16 +1,29 @@
-## Hi there 👋
+# ROBERTO
 
-<!--
-**adityaproject26-debug/adityaproject26-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm learning Linux, Termux, networking and web security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- Termux
+- Git & GitHub
+- Nmap
+- SQL
+- Python
+- Web Security
+
+## Projects
+
+- Personal Website
+- Linux Terminal Customization
+- Security Learning Labs
+
+## Currently Learning
+
+Web security, networking and cybersecurity fundamentals.
+
+## GitHub
+
+I use this profile to document my projects and learning journey.
